@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: 75399238e08d81e41aaface98d7a2831
+timeCreated: 1520008812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-sheet-mario 1_0
+    21300002: sprite-sheet-mario 1_1
+    21300004: sprite-sheet-mario 1_2
+    21300006: sprite-sheet-mario 1_3
+    21300008: sprite-sheet-mario 1_4
+    21300010: sprite-sheet-mario 1_5
+    21300012: sprite-sheet-mario 1_6
+    21300014: sprite-sheet-mario 1_7
+    21300016: sprite-sheet-mario 1_8
+    21300018: sprite-sheet-mario 1_9
+    21300020: sprite-sheet-mario 1_10
+    21300022: sprite-sheet-mario 1_11
+    21300024: sprite-sheet-mario 1_12
+    21300026: sprite-sheet-mario 1_13
+    21300028: sprite-sheet-mario 1_14
+    21300030: sprite-sheet-mario 1_15
+    21300032: sprite-sheet-mario 1_16
+    21300034: sprite-sheet-mario 1_17
+    21300036: sprite-sheet-mario 1_18
+    21300038: sprite-sheet-mario 1_19
+    21300040: sprite-sheet-mario 1_20
+    21300042: sprite-sheet-mario 1_21
+    21300044: sprite-sheet-mario 1_22
+    21300046: sprite-sheet-mario 1_23
+    21300048: sprite-sheet-mario 1_24
+    21300050: sprite-sheet-mario 1_25
+    21300052: sprite-sheet-mario 1_26
+    21300054: sprite-sheet-mario 1_27
+    21300056: sprite-sheet-mario 1_28
+    21300058: sprite-sheet-mario 1_29
+    21300060: sprite-sheet-mario 1_30
+    21300062: sprite-sheet-mario 1_31
+    21300064: sprite-sheet-mario 1_32
+    21300066: sprite-sheet-mario 1_33
+    21300068: sprite-sheet-mario 1_34
+    21300070: sprite-sheet-mario 1_35
+    21300072: sprite-sheet-mario 1_36
+    21300074: sprite-sheet-mario 1_37
+    21300076: sprite-sheet-mario 1_38
+    21300078: sprite-sheet-mario 1_39
+    21300080: sprite-sheet-mario 1_40
+    21300082: sprite-sheet-mario 1_41
+    21300084: sprite-sheet-mario 1_42
+    21300086: sprite-sheet-mario 1_43
+    21300088: sprite-sheet-mario 1_44
+    21300090: sprite-sheet-mario 1_45
+    21300092: sprite-sheet-mario 1_46
+    21300094: sprite-sheet-mario 1_47
+    21300096: sprite-sheet-mario 1_48
+    21300098: sprite-sheet-mario 1_49
+    21300100: sprite-sheet-mario 1_50
+    21300102: sprite-sheet-mario 1_51
+    21300104: sprite-sheet-mario 1_52
+    21300106: sprite-sheet-mario 1_53
+    21300108: sprite-sheet-mario 1_54
+    21300110: sprite-sheet-mario 1_55
+    21300112: sprite-sheet-mario 1_56
+    21300114: sprite-sheet-mario 1_57
+    21300116: sprite-sheet-mario 1_58
+    21300118: sprite-sheet-mario 1_59
+    21300120: sprite-sheet-mario 1_60
+    21300122: sprite-sheet-mario 1_61
+    21300124: sprite-sheet-mario 1_62
+    21300126: sprite-sheet-mario 1_63
+    21300128: sprite-sheet-mario 1_64
+    21300130: sprite-sheet-mario 1_65
+    21300132: sprite-sheet-mario 1_66
+    21300134: sprite-sheet-mario 1_67
+    21300136: sprite-sheet-mario 1_68
+    21300138: sprite-sheet-mario 1_69
+    21300140: sprite-sheet-mario 1_70
+    21300142: sprite-sheet-mario 1_71
+    21300144: sprite-sheet-mario 1_72
+    21300146: sprite-sheet-mario 1_73
+    21300148: sprite-sheet-mario 1_74
+    21300150: sprite-sheet-mario 1_75
+    21300152: sprite-sheet-mario 1_76
+    21300154: sprite-sheet-mario 1_77
+    21300156: sprite-sheet-mario 1_78
+    21300158: sprite-sheet-mario 1_79
+    21300160: sprite-sheet-mario 1_80
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 323
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 324
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 323
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 323
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 323
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 323
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 323
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 323
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 324
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 323
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 283
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 284
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 290
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 283
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 282
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 282
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 283
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 290
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 284
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 283
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 243
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 243
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 243
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 243
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 243
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 243
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 243
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 243
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 243
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_29
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 243
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 204
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 203
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 204
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 203
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 203
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 204
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_37
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 203
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 204
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 203
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 164
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_43
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 164
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 164
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 164
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 125
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 123
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 123
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 123
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 125
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 125
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 124
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 78
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_62
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 85
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 85
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 82
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_67
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 78
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_68
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 47
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 47
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 43
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_72
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 43
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_74
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 43
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 43
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 43
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_77
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 47
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_78
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 47
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_79
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 47
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-sheet-mario 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 389
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
