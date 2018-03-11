@@ -138,8 +138,8 @@ public class Mario : MonoBehaviour {
         }
     }
 
-        
 
+    
     void OnCollisionEnter2D(Collision2D collider)
     {
         //We find any enemies in the scene
@@ -161,9 +161,18 @@ public class Mario : MonoBehaviour {
             anim.SetBool("isJumping", false);
         }
     }
-
-    //Function for killing the player
-    void Die()
+    /*
+    void OnCollisionEnter2D(Collision2D collider)
+    {
+        
+            //Debug.Log("Floor");
+            //When player collides with floor, the jump animation stops
+            //This is because I dont know how to stop that animation
+            anim.SetBool("isJumping", false);
+    }
+    */
+        //Function for killing the player
+        void Die()
     {
         LevelManager levelManager = GameObject.Find("LevelManager").GetComponent<LevelManager>();
         levelManager.LoadLevel("Lose");
