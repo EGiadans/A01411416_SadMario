@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/_Scenes/Game.unity
     guid: 13bac63d7a5b2b04ab9f4bfb7172b3a1
   - enabled: 1
-    path: Assets/_Scenes/Lose.unity
+    path: Assets/_Scenes/Game2.unity
+    guid: f2733dcf5cbb6bf4aa988be05bec0b4e
+  - enabled: 1
+    path: Assets/_Scenes/GameOver.unity
     guid: 525eb11913b1f2b45a4644f7971e768a
   - enabled: 1
     path: Assets/_Scenes/Win.unity

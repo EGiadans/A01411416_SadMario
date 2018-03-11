@@ -129,11 +129,17 @@ public class Mario : MonoBehaviour {
             Destroy(collider.gameObject);
            
             Debug.Log(scoreMario);
-            //When the coinCount reaches the number of coins in the scene, the player wins
+            //When the coinCount reaches the number of coins in the scene, next level
             if (coinCount == 3)
             {
                 LevelManager levelManager = GameObject.Find("LevelManager").GetComponent<LevelManager>();
-                levelManager.LoadLevel("Win");
+                //levelManager.LoadLevel("Win");
+                Application.LoadLevel(Application.loadedLevel + 1);
+                coinCount = 0;
+                if (levelManager.Equals("Game2"))
+                {
+                    levelManager.LoadLevel("Win");
+                }
             }
         }
     }
